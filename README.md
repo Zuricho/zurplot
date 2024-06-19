@@ -1,5 +1,5 @@
 # zurplot
-A python package for creating figures with matplotlib.pyplot
+Zurplot is a python package for easily creating plot for proteins
 
 
 ## Installation
